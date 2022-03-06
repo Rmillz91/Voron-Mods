@@ -5,10 +5,10 @@ I took the Switchwire spoolholder and remixed it to fit on a 2020 extrusion, and
 (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles)
 
 ## Parts Required
-| Part | Quantity | Comment|
-|------|------|--------|
-| M5 X 12 SHCS | 2 | |
-| M5 T-Nut | 2 | |
+| Part | Quantity |
+|------|------|
+| M5 X 12 SHCS | 2 |
+| M5 T-Nut | 2 |
 
 ## Printing
 
