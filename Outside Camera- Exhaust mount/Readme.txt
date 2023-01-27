@@ -14,7 +14,7 @@ I had a couple different cameras die, which i believe might be due to the chambe
 | Foam Panel Tape (3mm Thick)                     |               |
 | 3mm acrylic (to cut window piece)		  |		  | 
 
-Webcam link (not an affiliate link) - Wansview 1080p Webcam (Amazon) https://www.amazon.com/dp/B088D3VXC6?psc=1&ref=ppx_yo2ov_dt_b_product_details
+Webcam link (not an affiliate link) - Wansview 1080p Webcam (Amazon) https://www.amazon.com/dp/B088D3VXC6?
 
 *dont forget to use the BOM foam to seal up the edges of the window and also around the exhaust filter baseplate!
 
