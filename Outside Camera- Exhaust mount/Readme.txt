@@ -14,17 +14,9 @@ I had a couple different cameras die, which i believe might be due to the chambe
 | Foam Panel Tape (3mm Thick)                     |               |
 | 3mm acrylic (to cut window piece)		  |		  | 
 
-Webcam link (not an affiliate link) - [Wansview 1080p Webcam (Amazon)](https://www.amazon.com/dp/B088D3VXC6?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-
-![cad_view_Front](Images/cad_view_front.png?raw=true)
-
-![cad_view_Back](Images/cad_view_back.png?raw=true)
-
-![view_on_printer](Images/view_on_printer.png?raw=true)
+Webcam link (not an affiliate link) - Wansview 1080p Webcam (Amazon) https://www.amazon.com/dp/B088D3VXC6?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 *dont forget to use the BOM foam to seal up the edges of the window and also around the exhaust filter baseplate!
-
-![webcam_view](Images/webcam_view.png?raw=true)
 
 Printing
 Print using standard Voron part settings and in the orientation used in the STL's
